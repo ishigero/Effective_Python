@@ -7,3 +7,5 @@
 * 10 : rangeよりはenumerateにする
 * 11 : イテレータを並列に処理にするにはzipを使う
 * 13 : try/except/else/finallyの各ブロックを活用する
+
+## 2章-function

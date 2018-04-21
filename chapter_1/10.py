@@ -1,6 +1,3 @@
-# Your code here!
-
-#generator
 print('start index is 0')
 colors = ['white', 'blue', 'green', 'red']
 for i, color in enumerate(colors):
